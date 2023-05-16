@@ -16,4 +16,6 @@ Linear Predictive (LPC) adalah metode yang sebagian besar digunakan dalam pemros
 - [ ] Membuat implementasi LPC dengan menggunakan fungsi-fungsi built-in MATLAB
 
 ## Upcoming Task
-- [ ] Mempelajari tentang CELP dan membuat program demonstrasinya pada MATLAB
+- [ ] Mempelajari tentang CELP
+- [ ] Membuat Program untuk mendemonstrasikan CELP
+- [ ] Membuat laporan singkat dalam power point tentang CELP
